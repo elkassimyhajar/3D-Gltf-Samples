@@ -1,0 +1,244 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.5.17",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                0,
+                1,
+                2,
+                3
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "Light",
+            "rotation" : [
+                0.16907575726509094,
+                0.7558803558349609,
+                -0.27217137813568115,
+                0.570947527885437
+            ],
+            "translation" : [
+                4.076245307922363,
+                5.903861999511719,
+                -1.0054539442062378
+            ]
+        },
+        {
+            "name" : "Camera",
+            "rotation" : [
+                0.483536034822464,
+                0.33687159419059753,
+                -0.20870360732078552,
+                0.7804827094078064
+            ],
+            "translation" : [
+                7.358891487121582,
+                4.958309173583984,
+                6.925790786743164
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "path108",
+            "scale" : [
+                6.110624313354492,
+                6.110624313354492,
+                6.110624313354492
+            ]
+        },
+        {
+            "mesh" : 1,
+            "name" : "path110",
+            "scale" : [
+                6.110624313354492,
+                6.110624313354492,
+                6.110624313354492
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "SVGMat.014",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4000000059604645
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "SVGMat.015",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    0.09084171056747437,
+                    0.09084171056747437,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.4000000059604645
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "path108",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                }
+            ]
+        },
+        {
+            "name" : "path110",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 3357,
+            "max" : [
+                0.13049905002117157,
+                0.019999999552965164,
+                -0.004633141215890646
+            ],
+            "min" : [
+                0.018203705549240112,
+                -0.019999999552965164,
+                -0.13542431592941284
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 3357,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 3357,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 5964,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 2130,
+            "max" : [
+                0.1259920448064804,
+                0.019999999552965164,
+                -0.009269243106245995
+            ],
+            "min" : [
+                0.022717466577887535,
+                -0.019999999552965164,
+                -0.13061876595020294
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 2130,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 2130,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 3780,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 40284,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 40284,
+            "byteOffset" : 40284
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 26856,
+            "byteOffset" : 80568
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 11928,
+            "byteOffset" : 107424
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 25560,
+            "byteOffset" : 119352
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 25560,
+            "byteOffset" : 144912
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 17040,
+            "byteOffset" : 170472
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 7560,
+            "byteOffset" : 187512
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 195072,
+            "uri" : "letterD.bin"
+        }
+    ]
+}
