@@ -22,6 +22,11 @@
                 -0.33345314860343933,
                 0.9427666664123535
             ],
+            "scale" : [
+                0.5361199378967285,
+                0.5361199378967285,
+                0.5361198782920837
+            ],
             "translation" : [
                 -4.646442413330078,
                 2.4631738662719727,
@@ -60,75 +65,75 @@
         {
             "bufferView" : 0,
             "componentType" : 5126,
-            "count" : 95,
+            "count" : 1503,
             "max" : [
-                8.084949493408203,
-                7.801519393920898,
-                1.3140028715133667
+                7.700411319732666,
+                7.42889928817749,
+                1.2292588949203491
             ],
             "min" : [
-                -2.080474853515625,
-                -1.6221994161605835,
-                -1.4719887971878052
+                -1.9136580228805542,
+                -1.2461862564086914,
+                -1.30517578125
             ],
             "type" : "VEC3"
         },
         {
             "bufferView" : 1,
             "componentType" : 5126,
-            "count" : 95,
+            "count" : 1503,
             "type" : "VEC3"
         },
         {
             "bufferView" : 2,
             "componentType" : 5126,
-            "count" : 95,
+            "count" : 1503,
             "type" : "VEC2"
         },
         {
             "bufferView" : 3,
             "componentType" : 5123,
-            "count" : 95,
+            "count" : 1503,
             "normalized" : true,
             "type" : "VEC4"
         },
         {
             "bufferView" : 4,
             "componentType" : 5123,
-            "count" : 480,
+            "count" : 7680,
             "type" : "SCALAR"
         }
     ],
     "bufferViews" : [
         {
             "buffer" : 0,
-            "byteLength" : 1140,
+            "byteLength" : 18036,
             "byteOffset" : 0
         },
         {
             "buffer" : 0,
-            "byteLength" : 1140,
-            "byteOffset" : 1140
+            "byteLength" : 18036,
+            "byteOffset" : 18036
         },
         {
             "buffer" : 0,
-            "byteLength" : 760,
-            "byteOffset" : 2280
+            "byteLength" : 12024,
+            "byteOffset" : 36072
         },
         {
             "buffer" : 0,
-            "byteLength" : 760,
-            "byteOffset" : 3040
+            "byteLength" : 12024,
+            "byteOffset" : 48096
         },
         {
             "buffer" : 0,
-            "byteLength" : 960,
-            "byteOffset" : 3800
+            "byteLength" : 15360,
+            "byteOffset" : 60120
         }
     ],
     "buffers" : [
         {
-            "byteLength" : 4760,
+            "byteLength" : 75480,
             "uri" : "banana.bin"
         }
     ]
